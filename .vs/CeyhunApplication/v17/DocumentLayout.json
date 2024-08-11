@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\views\\shared\\components\\post\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\shared\\components\\post\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\viewcomponents\\postviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\viewcomponents\\postviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\views\\shared\\components\\populartag\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\shared\\components\\populartag\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\viewcomponents\\populartagviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\viewcomponents\\populartagviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\controllers\\populartagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\controllers\\populartagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\models\\populartagpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\models\\populartagpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\models\\populartag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\models\\populartag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\category\\icategorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\category\\icategorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\abstractions\\repositories\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\abstractions\\repositories\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\configurations\\baseentitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\configurations\\baseentitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\configurations\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\configurations\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\concretes\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\concretes\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\concretes\\repositories\\category\\categoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\concretes\\repositories\\category\\categoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\concretes\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\concretes\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\abbas\\rnet104\\week-11\\day-3\\ceyhunapplication\\ceyhunapplication\\migrations\\20240811213652_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\migrations\\20240811213652_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:30:19.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "RelativeToolTip": "CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:30:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADQBAAAAAAAAAAAAAEEBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:21:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADsCAAAAAAAAAAAAAEwCAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:11:42.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:09:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:08:36.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopularTagViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "RelativeToolTip": "CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:05:08.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopularTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\PopularTagsController.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Controllers\\PopularTagsController.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\PopularTagsController.cs",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Controllers\\PopularTagsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:48:15.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\Post.cs",
+              "RelativeToolTip": "CeyhunApplication\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:41:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:44:40.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PopularTagPost.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\PopularTagPost.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Models\\PopularTagPost.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\PopularTagPost.cs",
+              "RelativeToolTip": "CeyhunApplication\\Models\\PopularTagPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:42:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PopularTag.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\PopularTag.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Models\\PopularTag.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\PopularTag.cs",
+              "RelativeToolTip": "CeyhunApplication\\Models\\PopularTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:41:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240811213652_Init.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Migrations\\20240811213652_Init.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Migrations\\20240811213652_Init.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Migrations\\20240811213652_Init.cs",
+              "RelativeToolTip": "CeyhunApplication\\Migrations\\20240811213652_Init.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:36:53.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CeyhunApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\appsettings.json",
+              "RelativeToolTip": "CeyhunApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T21:34:04.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:26:49.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:50:23.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:26:35.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:44:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:25:57.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Abstractions\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:26:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\Category.cs",
+              "RelativeToolTip": "CeyhunApplication\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:06:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "CeyhunApplication\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:06:44.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:02:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Program.cs",
+              "RelativeToolTip": "CeyhunApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:01:28.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Configurations\\CategoryMapping.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Configurations\\CategoryMapping.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Configurations\\CategoryMapping.cs",
+              "RelativeToolTip": "CeyhunApplication\\Configurations\\CategoryMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:59:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntityMapping.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "RelativeToolTip": "CeyhunApplication\\Configurations\\BaseEntityMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:59:37.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:48:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\Category\\CategoryReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Concretes\\Repositories\\Category\\CategoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\Category\\CategoryReadRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Concretes\\Repositories\\Category\\CategoryReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:27:20.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Concretes\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Concretes\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Concretes\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CeyhunApplication\\Concretes\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:52:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\RNET104\\Week-11\\Day-3\\CeyhunApplication\\CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "CeyhunApplication\\Concretes\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:45:14.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
